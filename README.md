@@ -1,8 +1,25 @@
 # Web-Budget-Tracker
 
+## Description 
+
+This application is intended to track my withdrawals and deposits with or without a data/internet connection
+SO THAT my account balance is accurate when I am traveling 
+
+## packages 
+-Express.js
+=Node.js
+=MongoDB
+=Mongoose
+=Service workers 
+
+## SCREEN SHOTS
+![Screenshot (34)](https://user-images.githubusercontent.com/89168938/149651570-e94a2e3b-6720-42d7-ba94-fc8df2b7f982.png)
+![Screenshot (35)](https://user-images.githubusercontent.com/89168938/149651575-c6bc55c5-02d2-4b16-86b3-46bc029a4777.png)
+
+https://wp-budget-tracker.herokuapp.com/
 
 
-
+## License
 MIT License
 
 Copyright (c) 2022 ChidoGang
@@ -25,5 +42,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+## Contact me
+@chidogGang
 
  
