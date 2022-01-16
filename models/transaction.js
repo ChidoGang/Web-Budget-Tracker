@@ -17,8 +17,8 @@ const transactionSchema = new Schema(
       default: Date.now
     }
   }
-);
-
-const Transaction = mongoose.model("Transaction", transactionSchema);
-
-module.exports = Transaction;
+  );
+  
+  const Transaction = mongoose.model("Transaction", transactionSchema);
+  
+  module.exports = Transaction;
